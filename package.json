@@ -1,0 +1,9 @@
+{
+  "name": "terra-nova-multiplayer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Terra Nova 1v1 multiplayer prototype",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"ws": "^8.18.0"}
+}
